@@ -25,5 +25,5 @@ Começar a registrar o passo-a-passo ("diário de bordo") do projeto em desenvol
 - [ ] Teoria sem prática é manca!
 - [ ] Prática sem teoria é cega!
 - [x] Que tal procurar ser um "velocista-visionário", com ética-fé!   :coffee:
-- [x] [Inova Talentos](https://br.mouser.com/development-tools-center/) - Brasil!
+- [x] “Trabalha como se tudo dependesse de ti e confia como se tudo dependesse de Deus.” – Santo Inácio de Loyola
 *** 

@@ -17,7 +17,7 @@ O evento está se desencadeando em 4 (quatro) etapas:
 
 Pois então, qual é a ideia deste repositório? 
 
-Começar a registrar o passo-a-passo do projeto em desenvovilmento denominado **"gestão e medição de consumo de gás"**, de modo a facilitar a documentação final.
+Começar a registrar o passo-a-passo (diário de bordo) do projeto em desenvovilmento denominado **"gestão e medição de consumo de gás"**, de modo a facilitar a documentação final.
 
 [**VAMOS JUNTOS:**](https://github.com/Mario-Camara/Jornada-do-Desenvolvimento-2021/wiki/Capa:-informa%C3%A7%C3%B5es-b%C3%A1sicas-e-links-relacionados-%C3%A0-Jornada) :fist_right: :fist_left:
 

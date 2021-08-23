@@ -7,13 +7,13 @@ A Mouser Electronics está realizando nos meses de Agosto, Setembro e Outubro a 
 
 O evento está se desencadeando em 4 (quatro) etapas:
 
-**1. Na primeira (Agosto) etapa:** Dev Journey. Consistiu de uma semana de palestras em que se apresentou aos inscritos todas as etapas do desenvolvimento, da criação à prateleira ou cliente final, demonstrando quais são os caminhos que o desenvolvedor terá que trilhar para ter o seu produto no mercado. Foram disponibilizados vídeos bem interessantes, siga em frente para acessar os links.
+  **1. Na primeira (Agosto) etapa:** Dev Journey. Consistiu de uma semana de palestras em que se apresentou aos inscritos todas as etapas do desenvolvimento, da criação à prateleira ou cliente final, demonstrando quais são os caminhos que o desenvolvedor terá que trilhar para ter o seu produto no mercado. Foram disponibilizados vídeos bem interessantes, siga em frente para acessar os links.
 
-**2. Na segunda (Setembro) etapa:** teremos duas oficinas online (Hands-On). As oficinas de treinamentos visam a familiarização com os kits de desenvolvimento: (i) EduKit RedFox; e (ii) Franzinho-WiFi. Os treinamentos terão a duração de 16 horas e serão abertos ao público em geral. 
+  **2. Na segunda (Setembro) etapa:** teremos duas oficinas online (Hands-On). As oficinas de treinamentos visam a familiarização com os kits de desenvolvimento: (i) EduKit RedFox; e (ii) Franzinho-WiFi. Os treinamentos terão a duração de 16 horas e serão abertos ao público em geral. 
 
-**3. Na terceira (Outubro) etapa:** o público poderá desenvolver projetos ao vivo na plataforma Twitch tudo que aprendeu durante as etapas anteriores.
+  **3. Na terceira (Outubro) etapa:** o público poderá desenvolver projetos ao vivo na plataforma Twitch tudo que aprendeu durante as etapas anteriores.
 
-**4. Na quarta (Janeiro) etapa:** teremos a premiação e a publicação dos melhores projetos que utilizaram os kits fornecidos no Concurso Cultural.
+  **4. Na quarta (Janeiro) etapa:** teremos a premiação e a publicação dos melhores projetos que utilizaram os kits fornecidos no Concurso Cultural.
 
 Pois então, qual é a ideia deste repositório? 
 

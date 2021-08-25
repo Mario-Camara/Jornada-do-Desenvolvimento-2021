@@ -1,5 +1,5 @@
 # Jornada-do-Desenvolvimento-2021
-Jornada do Desenvolvimento 2021 ([Mouser Electronics](https://br.mouser.com/) & [Instituto NCB](https://www.newtoncbraga.com.br/) & [Embarcados](https://www.embarcados.com.br/))
+Jornada do Desenvolvimento - Mouser Roadshow 2021 ([Mouser Electronics](https://br.mouser.com/) & [Instituto NCB](https://www.newtoncbraga.com.br/) & [Embarcados](https://www.embarcados.com.br/))
 
 ***
 
